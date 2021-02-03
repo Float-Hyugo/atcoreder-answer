@@ -1,4 +1,3 @@
-import sys
 N = int(input())
 A = list(input())
 c = 0
